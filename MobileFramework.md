@@ -43,5 +43,11 @@ Corperate Controled Device / User controlled device
  * Self funded Actor
  * Customer
  
+## Target 
+* Application
+* Mobile OS
+* Firmware
+* Hardware 
+* Mobile SP
 
  
