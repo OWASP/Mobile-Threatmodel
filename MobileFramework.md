@@ -4,46 +4,49 @@
 
 ## Data classification 
  
- ## Business Data
+ ### Business Data
  * Higly Confidential 
  * Confidential 
  * Internal 
  * Public
  
-## Personal Data
+ ### Personal Data
+ * Public Identifiable Information
+ * Customization settings
  
-## Application Data 
+ 
+ ### Application Data 
  * Secret Keys 
  * License 
  * Source code 
  
  
-## Data Concerns 
+ ### Data Concerns 
  * Integrity 
  * Destruction
  * Disclosure
  * Export 
  
-## Mobile Operating Systems
+ ### Mobile Operating Systems
 * Android 
 * IOS 
 
 *Versions Supported may increase vulnerabitite.  
 
 
-## App Store
+ ### App Store
 * Private store
 * Public Store 
 
 Corperate Controled Device / User controlled device 
 
-## List of Threat Agents 
+ ### List of Threat Agents 
  * Nation State Actor
  * Organisaed Crime Actor
  * Self funded Actor
  * Customer
  
-## Target 
+ ### Target 
 * Application
 * Mobile OS
 * Firmware
