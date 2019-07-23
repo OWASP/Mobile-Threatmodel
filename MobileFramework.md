@@ -32,7 +32,7 @@
  * Account take over
  * Fake Accounts 
  * Multiple Devices 
- *
+ 
  
  ### Mobile Operating Systems
 * Android 
@@ -55,7 +55,7 @@
  * Self funded Actor
  * Customer
  
- ### Target 
+ ### Attack Surface 
 * Application
 * Mobile OS
 * Firmware
@@ -66,4 +66,8 @@
 ## Out of Scope
 * Review of modules/libraries used in source code, which should be covered source code analysis
 * Prioritisation of vulnerabilities, which should be handled by risk management framework 
+* Motivation of threat agent 
+* Method of attack
+* Likelihood of attack
+* Imapct to organisation 
 
