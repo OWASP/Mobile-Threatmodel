@@ -8,6 +8,7 @@
 | TMS001   | Mobile SIM Card| Example threat |
 | TMT001   | Mobile Telecoms Provider | Example threat |
 
+
 ## Threat Control Mapping
 
 | Threat ID      | MASVS ID | Coverage  | 
