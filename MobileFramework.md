@@ -1,7 +1,5 @@
 # Threat Model Framework 
 
-
-
 ## Data classification 
  
  ### Business Data
@@ -54,13 +52,16 @@
  * Organisaed Crime Actor
  * Self funded Actor
  * Customer
- 
+
  ### Attack Surface 
 * Application
 * Mobile OS
 * Firmware
 * Hardware 
 * Mobile SP
+
+
+
 
  
 ## Out of Scope
@@ -70,4 +71,5 @@
 * Method of attack
 * Likelihood of attack
 * Imapct to organisation 
+* List of endless scenarios
 
