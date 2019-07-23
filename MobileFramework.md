@@ -1,37 +1,37 @@
-## Threat Model Framework 
+# Threat Model Framework 
 
 
 
-# Data classification 
+## Data classification 
  
- # Business Data
+ ## Business Data
  * Higly Confidential 
  * Confidential 
  * Internal 
  * Public
  
-# Personal Data
+## Personal Data
  
-# Application Data 
+## Application Data 
  * Secret Keys 
  * License 
  * Source code 
  
  
-# Data Concerns 
+## Data Concerns 
  * Integrity 
  * Destruction
  * Disclosure
  * Export 
  
-# Mobile Operating Systems
+## Mobile Operating Systems
 * Android 
 * IOS 
 
 *Versions Supported may increase vulnerabitite.  
 
 
-# App availability 
+## App availability 
 * Private store
 * Public Store 
 
