@@ -38,7 +38,9 @@
 * Private store
 * Public Store 
 
-Corperate Controled Device / User controlled device 
+### Device Control
+* Corperate Controled Device
+* User controlled device 
 
  ### List of Threat Agents 
  * Nation State Actor
@@ -54,3 +56,7 @@ Corperate Controled Device / User controlled device
 * Mobile SP
 
  
+## Out of Scope
+* Review of modules/libraries used in source code, which should be covered source code analysis
+* Prioritisation of vulnerabilities, which should be handled by risk management framework 
+
