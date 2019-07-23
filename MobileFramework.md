@@ -14,18 +14,25 @@
  * Public Identifiable Information
  * Customization settings
  
- 
  ### Application Data 
  * Secret Keys 
  * License 
  * Source code 
- 
  
  ### Data Concerns 
  * Integrity 
  * Destruction
  * Disclosure
  * Export 
+ 
+ ### Availability
+ * Denial of Service 
+ 
+ ### Customer Concerns
+ * Account take over
+ * Fake Accounts 
+ * Multiple Devices 
+ *
  
  ### Mobile Operating Systems
 * Android 
