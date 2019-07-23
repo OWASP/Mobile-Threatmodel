@@ -31,13 +31,13 @@
 *Versions Supported may increase vulnerabitite.  
 
 
-## App availability 
+## App Store
 * Private store
 * Public Store 
 
 Corperate Controled Device / User controlled device 
 
-# List of threat agents 
+## List of Threat Agents 
  * Nation State Actor
  * Organisaed Crime Actor
  * Self funded Actor
